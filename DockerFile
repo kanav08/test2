@@ -1,0 +1,5 @@
+From openjdk:8
+Expose 8090
+ADD /target/springBoot.jar dockerdemo.jar
+ENTRYPOINT ["java", "-jar", "dockerdemo.jar"]
+

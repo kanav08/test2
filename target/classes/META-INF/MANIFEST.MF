@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kanav.kohli
+Implementation-Vendor-Id: com.infosys
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot
+Created-By: Maven Integration for Eclipse
+
